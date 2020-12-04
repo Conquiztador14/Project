@@ -1,0 +1,30 @@
+body {
+  background-color: lightgrey;
+}
+
+h1 {
+  color: White;
+  margin-left: auto;
+}
+h2 {
+  color: White;
+  margin-left: auto;
+}
+h3 {
+  color: lightgrey;
+  margin-left: auto;
+}
+
+h4 {
+  color: black;
+  margin-left: auto;
+}
+
+
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #666666;
+  color: white;
+  font-size: 30px;
+}
